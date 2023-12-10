@@ -1,1 +1,1 @@
-# -algoriza-internship-2023BE76
+# algoriza-internship-2023BE76
